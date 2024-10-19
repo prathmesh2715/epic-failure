@@ -2,9 +2,9 @@
 
 ## College Name - Team Name
 - **Team Members:**
-  - Member 1: [Name, Role/Contribution]
-  - Member 2: [Name, Role/Contribution]
-  - Member 3: [Name, Role/Contribution]
+  - Member 1: Prathamesh Thorat / Backend
+  - Member 2: Nikhil Shinde / Web Development
+  - Member 3: Jayesh Pandey / Machine Learning
   - [Add more members as needed]
 
 ## Problem Statement
